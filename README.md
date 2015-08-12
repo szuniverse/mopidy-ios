@@ -12,7 +12,7 @@ current version: 0.8 beta (not in the AppStore)
 
 Planned 1.0 released date: 2015 - october (AppStore)
 
-planned features:
+planned MAIN features:
 - support all default backend
 - support mopidy-spotify extension
 - searching
