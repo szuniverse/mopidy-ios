@@ -17,4 +17,5 @@ planned MAIN features:
 - support mopidy-spotify extension
 - searching
 - local audio file browsing
+- mopidy server settings setup via app
 - nice UI ;)
