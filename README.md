@@ -14,7 +14,8 @@ Planned 1.0 released date: 2015 - october (AppStore)
 
 planned MAIN features:
 - support all default backend
-- support mopidy-spotify extension
+- support mopidy-spotify extension [https://github.com/mopidy/mopidy-spotify]
+- support mopidy-youtube extension [https://github.com/mopidy/mopidy-youtube]
 - searching
 - local audio file browsing
 - mopidy server settings setup via app
